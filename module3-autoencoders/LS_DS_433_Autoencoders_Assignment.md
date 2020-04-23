@@ -11,3 +11,14 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+Questions:
+What kinds of regulations do you personally believe need to be put on our industry? Why?
+
+What policies would you support to improve rights to anonymity while also keeping the benefits things such as CNN's offer?
+
+How do we as an industry reassure the public of the truth behind our work, and gain their trust for when we recommend things be / not be regulated?
+
+Where do we classify the difference between critical data that can be used, and overbearing data collection? For what cost-benefit of privacy?
+
+What long term effects do you believe constitutional rights to privacy will have in terms of industry progression? 
